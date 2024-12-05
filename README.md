@@ -12,7 +12,7 @@ A simple web page created using HTML that showcases cat images along with intera
 - HTML
 
 ## Live Demo
-Check out the live demo of the CatPhotoApp: [CatPhotoApp](https://<anuragraniyar>.github.io/cat-photo-app/)
+Check out the live demo of the CatPhotoApp: [CatPhotoApp](https://anuragraniyar.github.io/cat-photo-app/)
 
 ## How to Run Locally
 1. Clone this repository:
